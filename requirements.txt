@@ -3,6 +3,7 @@ openai
 watermark
 poppler-utils
 langchain
+langchain_community 
 chromadb
 pypdf
 pygpt4all
