@@ -4,11 +4,10 @@ watermark
 poppler-utils
 langchain
 langchain_community 
-chromadb==0.3.23
+chromadb
 pypdf
 pygpt4all
 pdf2image
 tiktoken
-fastapi==0.99.1
 pydantic==2.0
 unstructured[local-inference]
