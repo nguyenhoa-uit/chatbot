@@ -9,7 +9,6 @@ pypdf
 pygpt4all
 pdf2image
 tiktoken
-pydantic==
 fastapi==0.99.1
 pydantic==2.0
 unstructured[local-inference]
