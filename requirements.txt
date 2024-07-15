@@ -9,5 +9,4 @@ pypdf
 pygpt4all
 pdf2image
 tiktoken
-pydantic==2.0
 unstructured[local-inference]
