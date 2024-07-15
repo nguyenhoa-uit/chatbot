@@ -5,7 +5,7 @@ from openai import OpenAI
 import os
 import textwrap
 
-import chromadb
+# import chromadb
 import langchain
 import openai
 from langchain.chains import RetrievalQA
