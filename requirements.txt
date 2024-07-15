@@ -1,2 +1,11 @@
 streamlit
 openai
+watermark
+poppler-utils
+langchain
+chromadb
+pypdf
+pygpt4all
+pdf2image
+tiktoken
+unstructured[local-inference]
